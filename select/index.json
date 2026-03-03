@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "以上、n番観測地からお届けしました。",
+  "base_artist": "佐藤乃子",
+  "createdAt": "2026-03-03T03:03:25.511069Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "以上、n番観測地からお届けしました。 (feat. ナースロボ_タイプT)",
+      "artist": "佐藤乃子",
+      "has_synced": false,
+      "path": "select/pl_01_以上、n番観測地からお届けしました。_(feat._ナースロボ_タイプT)_佐藤乃子.txt"
+    }
+  ]
+}
